@@ -1,0 +1,7 @@
+main.c:52:6:task1	8	static
+main.c:71:6:task2	8	static
+main.c:90:6:task3	8	static
+main.c:109:6:task4	8	static
+main.c:130:6:task5	8	static
+main.c:157:6:task6	8	static
+main.c:186:5:main	16	static
